@@ -2,8 +2,7 @@
 A simple bot written in C# for farming your Microsoft Rewards.
 
 ## How to Use It 📖
-![{1ECB8FBF-98C0-4A37-AA55-3D80A17803B0}](https://github.com/user-attachments/assets/9879f1fb-41a4-40cc-b724-34a2f6f959fb)
-
+![image](https://github.com/user-attachments/assets/c84fad8b-7177-46c0-84ee-93e52d13febf)
 
 ## Important Instructions 📝
 
