@@ -1,0 +1,49 @@
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\Microsoft Rewards Farmer.exe.config
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\Microsoft Rewards Farmer.exe
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\Microsoft Rewards Farmer.pdb
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\DSharpPlus.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\DSharpPlus.SlashCommands.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Buffers.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Collections.Immutable.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Memory.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Text.Json.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Threading.Channels.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.ValueTuple.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\WebDriver.dll
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\DSharpPlus.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\DSharpPlus.SlashCommands.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Buffers.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Collections.Immutable.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Memory.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Text.Json.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Threading.Channels.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\System.ValueTuple.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\WebDriver.xml
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\obj\Debug\Microsoft Rewards Farmer.csproj.AssemblyReference.cache
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\obj\Debug\Microsoft Rewards Farmer.csproj.SuggestedBindingRedirects.cache
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\obj\Debug\Microsoft Rewards Farmer.csproj.CoreCompileInputs.cache
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\obj\Debug\Microsoft Rewards Farmer.csproj.CopyComplete
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\obj\Debug\Microsoft Rewards Farmer.exe
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\obj\Debug\Microsoft Rewards Farmer.pdb
+C:\Users\QuoiE\OneDrive\Bureau\DDDD\fsdf\Microsoft Rewards Farmer\bin\Debug\config\config.json

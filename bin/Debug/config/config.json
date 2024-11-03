@@ -1,0 +1,27 @@
+{
+  "token": "your_bot_token"
+  //Note : Do not leave this varibale in plaintext.
+}
+
+/*
+    Steps to securely encrypt and decrypt the token :
+
+    1.  Encrypt the Token for Storage in JSON
+       - Use the AES class from 'System.Security.Cryptography' to perform AES encryption.
+       - Create a method that takes a plaintext token as input and returns the encrypted token as a base64 string.
+       - Before adding the token to 'config.json', call this method to encrypt the token.
+       - Store the encrypted token in 'config.json' under a property , instead of storing the plaintext token.
+
+    2. Decrypt the Token During JSON Reading
+       - In your 'JSONReader' class, create a method that takes the encrypted token and the encryption key as inputs.
+       - Use the AES class to decrypt the encrypted token back to plaintext.
+       - When reading from 'config.json', deserialize the encrypted token using 'JsonConvert.DeserializeObject' from the 'Newtonsoft.Json' library.
+       - Call the method to obtain the plaintext token for use in your app (for the bot configuration).
+
+    3.  Store the Encryption Key Securely
+       - To enhance security, do not hard-code the encryption key in your code. Instead, store the key in an environment variable.
+       - Use 'Environment.GetEnvironmentVariable("YOUR_ENV_VARIABLE_NAME")' to retrieve the key in your code.
+
+        Now your token is secured ! :) 
+*/
+
